@@ -1,0 +1,27 @@
+{
+  "name": "playwright-blinkdiff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanTail/playwright-blinkdiff.git"
+  },
+  "author": "DanTail",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanTail/playwright-blinkdiff/issues"
+  },
+  "homepage": "https://github.com/DanTail/playwright-blinkdiff#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "blink-diff": "^1.0.13",
+    "cucumber": "^7.0.0-rc.0",
+    "eslint": "^7.26.0",
+    "playwright": "^1.11.0",
+    "rimraf": "^3.0.2"
+  }
+}
